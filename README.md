@@ -82,11 +82,6 @@ Direct use of numpy.linalg routines; relate to linear regression normal equation
 
 
 
-
-
-
-```
-
 import numpy as np
 import pandas as pd
 A= np.array([[2.0,1.0],[1.0,3.0]])
